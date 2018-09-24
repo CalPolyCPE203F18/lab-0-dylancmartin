@@ -1,13 +1,13 @@
-public class Lab00
+public class scratch
 {
-    private int x = 3
-    private String = "hello"
-    private double = 9.8
+    private int x = 3;
+    private String y = "hello";
+    private double z = 9.8;
 
     public static void main(String[] args)
     {
         System.out.println("x: " + x + "y: " + y + "z: " + z);
-        nums[] = [3,6,-1,2]
+        nums[int] = [3,6,-1,2];
         for (int num : nums)
             System.out.println(num);
         System.out.println();
@@ -16,9 +16,5 @@ public class Lab00
 
     }
 
-    public static int char_count(String s, char c)
-    {
-        i = 0
-        for (j)
-    }
+}
 }
