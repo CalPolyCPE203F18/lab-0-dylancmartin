@@ -18,12 +18,11 @@ public class scratch
         int nums[] = {3,6,-1,2};
         for (int num : nums)
             System.out.println(num);
-        System.out.println();
         //call a function
         int numFound = char_count(y,'l');
         System.out.println("found:" + numFound);
         for(int i = 1; i <= 10; i++)
-            System.out.println(i);
+            System.out.print(i + " ");
         System.out.println();
     }
     public static int char_count(String s, char c)
