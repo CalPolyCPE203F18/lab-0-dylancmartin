@@ -21,6 +21,7 @@ public class scratch
         //call a function
         int numFound = char_count(y,'l');
         System.out.println("found:" + numFound);
+        //a counting for loop
         for(int i = 1; i <= 10; i++)
             System.out.print(i + " ");
         System.out.println();
