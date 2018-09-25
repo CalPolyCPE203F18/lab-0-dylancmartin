@@ -1,7 +1,6 @@
 import java.util.*;
 
-
-public class scratch
+public class Lab00
 {
     // declaring and initializing some variables
 
